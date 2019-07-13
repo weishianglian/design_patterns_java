@@ -2,7 +2,7 @@
 ## Facade, Decorator, Composite and Flyweight
 
 ### Facade
-  > Facade is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes.
+> Facade is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes.
 
 ### Decorator
 > Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
@@ -28,3 +28,9 @@ javac -cp decorator/target decorator.StarbuzzCoffe
 javac -cp composite/target composite.MenuTestDrive
 javac -cp flyweight/target flyweight.Demo
 ```
+
+## Reference
+* [Head First Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)
+  * [Code](https://github.com/bethrobson/Head-First-Design-Patterns)
+* [Dive Into Design Patterns](https://refactoring.guru/design-patterns/book)
+  * [Code](https://github.com/RefactoringGuru/design-patterns-java)
