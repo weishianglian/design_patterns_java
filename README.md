@@ -23,10 +23,10 @@ javac -d flyweight/target flyweight/Demo.java
 ```
 ## Execute Commands
 ```sh
-javac -cp dacade/target facade.HomeTheaterTestDrive
-javac -cp decorator/target decorator.StarbuzzCoffe
-javac -cp composite/target composite.MenuTestDrive
-javac -cp flyweight/target flyweight.Demo
+java -cp dacade/target facade.HomeTheaterTestDrive
+java -cp decorator/target decorator.StarbuzzCoffe
+java -cp composite/target composite.MenuTestDrive
+java -cp flyweight/target flyweight.Demo
 ```
 
 ## Reference
